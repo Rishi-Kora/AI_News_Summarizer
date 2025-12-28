@@ -38,4 +38,4 @@ The interface focuses on a "Minimalist Design" to maximize user efficiency:
 
 <img width="1404" height="694" alt="image" src="https://github.com/user-attachments/assets/3368e861-6a63-49ae-bafa-f80b345798d6" />
 
-
+**NOTE:** Use your own **API Key** and **models.**
