@@ -1,6 +1,7 @@
 # AI News Summarizer Workflow
 
 **1. Problem Statement:**
+
 In the era of information overload, staying updated with the latest news is time-consuming.Users often come across lengthy articles but lack the time or attention span to read them in their entirety.There is a clear need for a tool that can instantly process web content and distill it into essential facts.
 
 ---
